@@ -7,27 +7,27 @@
     <dependency>
       <groupId>org.phoebus</groupId>
       <artifactId>product</artifactId>
-      <version>5.0.2</version>
+      <version>5.0.4</version>
     </dependency>
     <dependency>
       <groupId>org.phoebus</groupId>
       <artifactId>app-logbook-olog-client-es</artifactId>
-      <version>5.0.2</version>
+      <version>5.0.4</version>
     </dependency>
     <dependency>
       <groupId>org.phoebus</groupId>
       <artifactId>app-logbook-olog-client</artifactId>
-      <version>5.0.2</version>
+      <version>5.0.4</version>
     </dependency>
     <dependency>
       <groupId>org.phoebus</groupId>
       <artifactId>app-logbook-olog-ui</artifactId>
-      <version>5.0.2</version>
+      <version>5.0.4</version>
     </dependency>
     <dependency>
       <groupId>org.phoebus</groupId>
       <artifactId>app-trends-rich-adapters</artifactId>
-      <version>5.0.2</version>
+      <version>5.0.4</version>
     </dependency>
 
     <dependency>
@@ -50,7 +50,7 @@
   </dependencies>
   <parent>
     <groupId>org.phoebus</groupId>
-    <version>5.0.2</version>
+    <version>5.0.4</version>
     <artifactId>nsls2-products</artifactId>
   </parent>
 
