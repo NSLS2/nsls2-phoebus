@@ -34,6 +34,21 @@
       <artifactId>app-utility-preference-manager</artifactId>
       <version>5.0.4</version>
     </dependency>
+    <dependency>
+        <groupId>org.phoebus</groupId>
+        <artifactId>app-queue-server-edit-control</artifactId>
+        <version>5.0.4</version>
+    </dependency>
+    <dependency>
+        <groupId>org.phoebus</groupId>
+        <artifactId>app-queue-server-monitor</artifactId>
+        <version>5.0.4</version>
+    </dependency>
+    <dependency>
+        <groupId>org.phoebus</groupId>
+        <artifactId>app-queue-server-monitor</artifactId>
+        <version>5.0.4</version>
+    </dependency>    
     <!--
     <dependency>
       <groupId>org.phoebus</groupId>
