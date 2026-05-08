@@ -32,7 +32,7 @@ fi
 # Update the git repos
 cd ${TOP}/lib/phoebus
 git fetch --all --tags
-git checkout v5.0.2
+git checkout v5.0.4
 git clean -fdx
 
 # set the java and maven env variables
@@ -54,4 +54,3 @@ mvn clean install -DskipTests=true
 # Build nsls2 product products
 cd $TOP/products
 mvn clean install -DskipTests=true -Ddocs=${TOP}/lib/phoebus/docs
-

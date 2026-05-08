@@ -10,7 +10,7 @@ TOP="$( cd "$(dirname "$0")" ; pwd -P )"
 #export PATH="$JAVA_HOME/bin:$PATH"
 
 echo $TOP
-V="5.0.2"
+V="5.0.4"
 
 # figure out the path to the product jar
 if [[ -z "${PHOEBUS_JAR}" ]]; then
